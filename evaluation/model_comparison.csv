@@ -1,0 +1,4 @@
+Models,Accuracy,Precision,Recall,F1 Score
+Neural network,0.735,0.746,0.943,0.833
+random forest,0.755,0.779,0.907,0.838
+XGBoost,0.775,0.799,0.907,0.85
