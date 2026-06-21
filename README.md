@@ -204,16 +204,16 @@ B.Tech Artificial Intelligence and Data Science
 
 ### Enhanced Due Diligence Analysis
 
-![Enhanced Due Diligence](images/enhenced_due_diligence.png)
+![Enhanced Due Diligence](images/Enhancedc_Due_Diligence.png)
 
 ### Prediction Probability
 
-![Prediction Probability](images/prediction_probability.png)
+![Prediction Probability](images/Prediction_Probability.png)
 
 ### Model Comparison
 
-![Model Comparison](images/model_comparison.png)
+![Model Comparison](images/Model_Comparison.png)
 
 ### Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](images/Feature_Importance.png)
