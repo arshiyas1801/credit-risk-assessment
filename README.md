@@ -119,7 +119,7 @@ The project is deployed using **Streamlit**, enabling an interactive user experi
 
 ## 📁 Project Structure
 
-```bash
+```text
 credit_risk_assessment_project/
 
 ├── app/
@@ -136,7 +136,9 @@ credit_risk_assessment_project/
 ├── main.py
 ├── requirements.txt
 └── README.md
+```
 
+---
 
 ## 🛠️ Technologies Used
 
@@ -153,25 +155,24 @@ credit_risk_assessment_project/
 
 ---
 
-
-```md
 ## 📈 Results & Impact
 
-- Built an end-to-end machine learning system for credit risk assessment  
-- Successfully benchmarked multiple machine learning models  
-- Achieved best performance using XGBoost classifier  
-- Deployed an interactive decision-support system using Streamlit  
+* Built an end-to-end machine learning system for credit risk assessment
+* Successfully benchmarked multiple machine learning models
+* Achieved best performance using XGBoost classifier
+* Deployed an interactive decision-support system using Streamlit
 
 This project demonstrates practical application of machine learning in financial risk analytics and credit decision systems.
 
 ---
 
 ## 🔮 Future Improvements
-Hyperparameter tuning using Optuna / GridSearch
-Explainable AI using SHAP for model interpretability
-Integration with real-time financial APIs
-User authentication for enterprise-grade deployment
-Cloud deployment with CI/CD pipeline (AWS / Render / Azure)
+
+* Hyperparameter tuning using Optuna / GridSearch
+* Explainable AI using SHAP for model interpretability
+* Integration with real-time financial APIs
+* User authentication for enterprise-grade deployment
+* Cloud deployment with CI/CD pipeline (AWS / Render / Azure)
 
 ---
 
@@ -183,14 +184,17 @@ This project is created for educational and portfolio purposes.
 
 ## 👤 Author
 
-**Arshiya Arif Sayyed**  
-B.Tech Artificial Intelligence and Data Science  
+**Arshiya Arif Sayyed**
+B.Tech Artificial Intelligence and Data Science
 
-### Interests:
-- Data Science  
-- Machine Learning  
-- Financial Analytics  
-- Artificial Intelligence  
+### Interests
+
+* Data Science
+* Machine Learning
+* Financial Analytics
+* Artificial Intelligence
+
+---
 
 ## 📷 Project Screenshots
 
@@ -213,5 +217,3 @@ B.Tech Artificial Intelligence and Data Science
 ### Feature Importance
 
 ![Feature Importance](images/feature_importance.png)
-
-
