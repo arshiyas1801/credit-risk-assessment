@@ -204,7 +204,7 @@ B.Tech Artificial Intelligence and Data Science
 
 ### Enhanced Due Diligence Analysis
 
-![Enhanced Due Diligence](images/Enhancedc_Due_Diligence.png)
+![Enhanced Due Diligence](images/Enhanced_Due_Diligence.png)
 
 ### Prediction Probability
 
